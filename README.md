@@ -6,6 +6,7 @@ Movie description..
 * pkg install upgrade
 * pip install --upgrade pip
 * pkg install git
+* git clone
 * pip install imdbpy
 * pip install colorama
 * cd M-Info
