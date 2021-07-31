@@ -21,3 +21,10 @@ Movie Information Python Tool :) that provides inforamtion about searched movie.
 * cd M-Info
 * ls
 * Python3 M-Info.py
+
+# This tool tested on :)
+* Kali Linux
+* Termux
+* MacOS
+* Ubuntu
+* Perrot Sec OS
