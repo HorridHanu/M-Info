@@ -6,7 +6,7 @@ Movie description..
 * pkg install upgrade
 * pip install --upgrade pip
 * pkg install git
-* git clone
+* git clone https://github.com/HorridHanu/M-Info.git
 * pip install imdbpy
 * pip install colorama
 * cd M-Info
