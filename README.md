@@ -1,8 +1,5 @@
 # M-Info(Movie-Inforamtion)
 
-
-
-
 # What is M-Info.
 Movie Information Python Tool :) that provides inforamtion about searched movie.
 
@@ -12,7 +9,8 @@ Movie Information Python Tool :) that provides inforamtion about searched movie.
 * github CLI : gh repo clone HorridHanu/M-Info
 
 
-#Command 
+
+# Command 
 * pkg install update
 * pkg install upgrade
 * pip install --upgrade pip
