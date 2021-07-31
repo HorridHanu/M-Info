@@ -1,5 +1,5 @@
 # M-Info
-Movie description..
+Movie Information Python Tool..
 
       #Command 
 * pkg install update
