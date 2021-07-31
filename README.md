@@ -5,7 +5,8 @@
 Movie Information Python Tool :) that provides inforamtion about searched movie.
 
 # Installation.
-* git clone https://github.com/HorridHanu/M-Info.git
+* https :  git clone https://github.com/HorridHanu/M-Info.git
+* ssh : git@github.com:HorridHanu/M-Info.git
 
 
 #Command 
