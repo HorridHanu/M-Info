@@ -1,7 +1,11 @@
 # M-Info(Movie-Inforamtion)
-# What is M-Info
+
+
+# What is M-Info.
 Movie Information Python Tool :) that provides inforamtion about searched movie.
-# Installation
+
+# Installation.
+* git clone https://github.com/HorridHanu/M-Info.git
 
 
 #Command 
